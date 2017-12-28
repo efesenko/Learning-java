@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-
+        //manual input from the console
         Calculator calculator = new Calculator();
         System.out.println("Plz enter value for a: ");
         calculator.getA();
@@ -16,6 +16,8 @@ public class Main {
         calculator.getB();
 
         calculator.getResult();
+
+        //manual input from the code
 
     }
 }

@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class MainTest {
     @Test
     public void test_getA() {
-        Assertions.assertTrue(, 30, addition(27, 3));
+      //  Assertions.assertTrue(, 30, addition(27, 3));
 
     }
 
